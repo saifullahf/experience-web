@@ -40,3 +40,6 @@ Material we find useful:
 ## Full Stack Web Development
 > Lets get more advanced. Full stack consist of three or more basic learning curve. If you don't understand, take it slow and keep doing instead of thinking then 
 procrastinate. If you feel ready lets get to Part2: [Full Stack Web Development]()
+
+###
+    Open to contribution, editor would appreciate that.

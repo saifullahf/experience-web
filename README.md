@@ -1,5 +1,5 @@
 # Become a Better Web Developer
-This guides are including front-end, back-end and database technogies we can use. Some of the list are editor choices while other list referenced link to more useful explanation. 
+This guides or article as you may called, are including front-end, back-end and database technogies we can use. Some of the list are editor choices while other list referenced link to more useful explanation. 
   
 (If you want to get material for software development, go to this [Become a Better Software Developer]() page instead.)
 <br>

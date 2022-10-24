@@ -1,4 +1,5 @@
 # Part 2: Full Web Development
+> This [Milanote](https://milanote.com/) will come in handy.
 
 ### Resource Variation
 - [ ] React vs Vue vs Angular
